@@ -2,6 +2,7 @@ nothing to see here
 
 things to note
 * meme
+* resources and link from alx studied/used
 * Each file's title/subtitle with link the file
 * short description of the file under it's title
 
