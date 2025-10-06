@@ -6,7 +6,7 @@
 <br /><p></p><br />
 
 ## :book: INSTRUCTIONS
-    * Run the scripts using `bash <script>.sh` command!
+* Run the scripts using `bash <script>.sh` command!
 <br />
 
 nothing to see here
