@@ -6,6 +6,8 @@
 
 ## :book: INSTRUCTIONS
 * Run the scripts using `bash <script>.sh` command! `script` is the name of the bash file/script.
+  or
+* Run `chmod u+x <script>.sh && ./<script>.sh` command!
 <br />
 
 ## 📚 RESOURCES
