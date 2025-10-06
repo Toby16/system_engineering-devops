@@ -19,9 +19,9 @@
 ## ✅ TASKS
 0. [Create your answer directory](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/0_Create_your_answer_directory.sh) || `Navigate to /root and create a directory named 0x01_emacs`.
 1. [Opening](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/1_Opening.sh) || `The command to open a file from within Emacs?`.
-2. [Saving](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/2_Saving.sh)
-3. [Cutting](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/3_Cutting.sh)
-4. [Pasting](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/4_Pasting.sh)
-5. [Searching](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/5_Searching.sh)
-6. [Undoing](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/6_Undoing.sh)
-7. [Quitting](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/7_Quitting.sh)
+2. [Saving](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/2_Saving.sh) || `The command to save a file?`.
+3. [Cutting](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/3_Cutting.sh) ||  `The command to cut an entire line`.
+4. [Pasting](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/4_Pasting.sh) ||  `The command to paste in Emacs`.
+5. [Searching](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/5_Searching.sh) ||  `The command to search forward`.
+6. [Undoing](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/6_Undoing.sh) ||  `The command to undo in Emacs`.
+7. [Quitting](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/7_Quitting.sh) ||  `The command to quit Emac`.
