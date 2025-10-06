@@ -1,3 +1,7 @@
+# Emacs 📖
+`Shell` `Editor`
+
+
 nothing to see here
 
 things to note
