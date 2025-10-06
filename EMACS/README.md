@@ -17,7 +17,7 @@
 <br />
 
 ## ✅ TASKS
-0. [Create your answer directory](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/0_Create_your_answer_directory.sh) `Navigate to /root and create a directory named 0x01_emacs`
+0. [Create your answer directory](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/0_Create_your_answer_directory.sh) => Navigate to /root and create a directory named 0x01_emacs
 1. [Opening](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/1_Opening.sh)
 2. [Saving](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/2_Saving.sh)
 3. [Cutting](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/3_Cutting.sh)
