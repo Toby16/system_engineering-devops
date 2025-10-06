@@ -1,1 +1,8 @@
 nothing to see here
+
+things to note
+* meme
+* Each file's title/subtitle with link the file
+* short description of the file under it's title
+
+* instructions to run scripts either as 'chmod u+x script.sh && ./script.sh' or 'bash script.sh'
