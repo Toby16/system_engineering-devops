@@ -25,3 +25,4 @@
 5. [Searching](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/5_Searching.sh) ||  `The command to search forward`.
 6. [Undoing](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/6_Undoing.sh) ||  `The command to undo in Emacs`.
 7. [Quitting](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/7_Quitting.sh) ||  `The command to quit Emac`.
+`Click the links! Thank you.`
