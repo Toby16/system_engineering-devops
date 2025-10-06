@@ -28,4 +28,4 @@
 
 <br />
 
-`Click the links! Thank you.`
+`🙂 Be Sure To Click The Links! Thank you. 🙃`
