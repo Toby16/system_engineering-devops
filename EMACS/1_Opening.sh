@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# What is the command to open a file from within Emacs?
+# The command to open a file from within Emacs?
 # Write the answer into the file /root/0x01_emacs/opening.
 # You can validate if the format of your answer is correct by displaying the file information
 
