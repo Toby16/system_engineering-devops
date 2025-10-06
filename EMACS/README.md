@@ -17,17 +17,11 @@
 <br />
 
 ## ✅ TASKS
-0. [Create your answer directory](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/0_Create_your_answer_directory.sh): Navigate to `/root` and create a directory named `0x01_emacs`
+0. [Create your answer directory](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/0_Create_your_answer_directory.sh)
 1. [Opening](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/1_Opening.sh)
 2. [Saving](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/2_Saving.sh)
-3. [Cutting](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/3_Cutting%2Csh)
-
-nothing to see here
-
-things to note
-* meme
-* resources and link from alx studied/used
-* Each file's title/subtitle with link the file
-* short description of the file under it's title
-
-* instructions to run scripts either as 'chmod u+x script.sh && ./script.sh' or 'bash script.sh'
+3. [Cutting](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/3_Cutting.sh)
+4. [Pasting](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/4_Pasting.sh)
+5. [Searching](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/5_Searching.sh)
+6. [Undoing](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/6_Undoing.sh)
+7. [Quitting](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/7_Quitting.sh)
