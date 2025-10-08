@@ -1,7 +1,7 @@
 # SHELL 🐚, NAVIGATION 📂
 `Shell` `Bash`
 <br /> <br />
-![alt text](https://github.com/Toby16/system_engineering-devops/blob/9a46a84813872024b98a06146d608a167c19f490/assets/shell_navigation.jpeg)
+<img src="https://github.com/Toby16/system_engineering-devops/blob/9a46a84813872024b98a06146d608a167c19f490/assets/shell_navigation.jpeg" alt="Shell, Navigation" width="500"/>
 <br /> <br />
 
 ## :book: INSTRUCTIONS
