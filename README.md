@@ -8,7 +8,9 @@
 * Shell Basics, Permissions, I/O redirections and Filters, Initialization (init) Files, Variables, and Expansions.
 * Loops, Conditions, and Parsing.
 * Unification and Automation of `Processes` and `Signals`.
-* Infrastructure Management and Maintenance.
-* Application Management and Maintenance.
-* System Administration.
+* Infrastructure Management & Maintenance.
+* Application Management & Maintenance.
+* System Administration & Engineering.
 * DevOps Tool-Chain.
+
+`Hint: 🙂 Be Sure To Enjoy The memes 🙃`
