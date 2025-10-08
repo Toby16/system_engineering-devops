@@ -1,4 +1,4 @@
-# SHELL 🐚, NAVIGATION 📂0
+# SHELL 🐚, NAVIGATION 📂
 `Shell` `Bash`
 <br /> <br />
 ![alt text]()
