@@ -1,7 +1,7 @@
 # SHELL 🐚, NAVIGATION 📂
 `Shell` `Bash`
 <br /> <br />
-![alt text]()
+![alt text](https://github.com/Toby16/system_engineering-devops/blob/aec01d70cc47654368007f89309c69d4ec689614/assets/emacs.webp)
 <br /> <br />
 
 ## :book: INSTRUCTIONS
