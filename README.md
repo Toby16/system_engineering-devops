@@ -6,6 +6,6 @@
 
 ## 📖 GENERAL
 * Shell Basics, Permissions, I/O redirections and Filters.
-  Initialization (init) Files, Variables, and Expansions.
+  <br />Initialization (init) Files, Variables, and Expansions.
 * Loops, Conditions, and Parsing.
 * Unification and Automation of `Processes` and `Signals`.
