@@ -1,7 +1,7 @@
 # 🧰 System Engineering Devops ⚙️
 `Shell` `Bash` `Editor`
 <br /> <br />
-![alt text](https://github.com/Toby16/system_engineering-devops/blob/74171486f5028cc14a03c2ad74e79c6c68d998e8/assets/system_engineering_devops.jpg)
+<img src="https://raw.githubusercontent.com/Toby16/system_engineering-devops/2ac5c680e652334004726806e1094dda50ebf016/assets/system_engineering_devops.jpg" alt="System Engineering DevOps" width="500"/>
 <br /> <br />
 
 
