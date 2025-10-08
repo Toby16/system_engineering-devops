@@ -8,8 +8,8 @@
 * Shell Basics, Permissions, I/O redirections and Filters, Initialization (init) Files, Variables, and Expansions.
 * Loops, Conditions, and Parsing.
 * Unification and Automation of `Processes` and `Signals`.
-* Infrastructure Management & Maintenance.
-* Application Management & Maintenance.
+* Infrastructure Management and Maintenance.
+* Application Management and Maintenance.
 * System Administration & Engineering.
 * DevOps Tool-Chain.
 
