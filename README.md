@@ -1,6 +1,9 @@
 # 🧰 System Engineering Devops ⚙️
 `Shell` `Bash` `Editor`
-![alt text](https://th.bing.com/th/id/R.8b10ec800315487619e2b664fb8b984d?rik=T1zHS315jVTSeA&pid=ImgRaw&r=0)
+<br /> <br />
+![alt text](https://github.com/Toby16/system_engineering-devops/blob/74171486f5028cc14a03c2ad74e79c6c68d998e8/assets/system_engineering_devops.jpg)
+<br /> <br />
+
 
 *This is all about the study and operation of*:
 
