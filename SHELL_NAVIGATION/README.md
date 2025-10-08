@@ -11,8 +11,11 @@
 <br />
 
 ## 📚 RESOURCES
-* [Shell Man (manual) Page](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiNpY7qjZCQAxXKVUEAHQRbHUcQFnoECAsQAQ&url=https%3A%2F%2Fman7.org%2Flinux%2Fman-pages%2Fman1%2Fsh.1p.html&usg=AOvVaw1AgiSklTpM7oSMld4bc3GZ&opi=89978449).
-* Using Emacs as an Editor & [A Guided Tour of Emacs](https://www.gnu.org/software/emacs/tour) from the GNU.
+* [Linux Navigation](https://linuxcommand.org/lc3_lts0020.php).
+* [Linux - Looking Around!](https://linuxcommand.org/lc3_lts0030.php).
+* [Linux - Manipulating Files](https://linuxcommand.org/lc3_lts0050.php).
+* [Linux -/tmp](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/tmp.html).
+* Manual Pages for `pwd` `ls` `cd` `less` `touch` `cp` `mv` `rm` `mkdir` and `rmdir` commands. Run `man <command>` to open the manual page of any command.
 <br />
 
 ## ✅ TASKS
