@@ -1,7 +1,7 @@
 # EMACS 📝
 `Shell` `Editor`
 <br /> <br />
-![alt text](https://github.com/Toby16/system_engineering-devops/blob/aec01d70cc47654368007f89309c69d4ec689614/assets/emacs.webp)
+<img src="https://github.com/Toby16/system_engineering-devops/blob/aec01d70cc47654368007f89309c69d4ec689614/assets/emacs.webp" alt="Emacs" width="500"/>
 <br /> <br />
 
 ## :book: INSTRUCTIONS
