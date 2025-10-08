@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/Toby16/system_engineering-devops/2ac5c680e652334004726806e1094dda50ebf016/assets/system_engineering_devops.jpg" alt="System Engineering DevOps" width="500"/>
 <br /> <br />
 
-### This is all about the study of
+### 📖 GENERAL
 * Shell Basics, Permissions, I/O redirections and Filters, Initialization (init) Files, Variables, and Expansions.
 * Loops, Conditions, and Parsing.
 * Unification and Automation of `Processes` and `Signals`.
