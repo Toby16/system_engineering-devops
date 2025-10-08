@@ -15,7 +15,8 @@
 * [Linux - Looking Around!](https://linuxcommand.org/lc3_lts0030.php).
 * [Linux - Manipulating Files](https://linuxcommand.org/lc3_lts0050.php).
 * [Linux -/tmp](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/tmp.html).
-* Manual Pages for `pwd` `ls` `cd` `less` `touch` `cp` `mv` `rm` `mkdir` and `rmdir` commands. Run `man <command>` to open the manual page of any command.
+* Manual Pages for `pwd` `ls` `cd` `less` `touch` `cp` `mv` `rm` `mkdir` and `rmdir` commands.
+Run `man <command>` to open the manual page of any command.
 <br />
 
 ## ✅ TASKS
