@@ -24,7 +24,7 @@
 4. [Pasting](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/4_Pasting.sh) ||  `Pasting/yanking in Emacs`.
 5. [Searching](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/5_Searching.sh) ||  `Searching forward in Emacs`.
 6. [Undoing](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/6_Undoing.sh) ||  `Undo in Emacs`.
-7. [Quitting](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/7_Quitting.sh) ||  `How to quit Emac`.
+7. [Quitting](https://github.com/Toby16/system_engineering-devops/blob/Toby/EMACS/7_Quitting.sh) ||  `How to quit Emacs`.
 
 <br />
 
