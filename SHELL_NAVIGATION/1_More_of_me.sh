@@ -7,5 +7,5 @@ cp school /tmp
 
 # Validate your current working directory
 pwd
-# Display the list of files of your current directory to validate the creation of the new file
+# Display the list of files of your current directory to validate  the copy of the file
 ls -l . /tmp # displays content of current directory and /tmp in long format
