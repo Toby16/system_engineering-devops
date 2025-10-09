@@ -8,5 +8,5 @@ mv old_school new_school
 
 # Validate your current working directory
 pwd
-# Display the list of files of your current directory to validate the creation of the new file
+# Display the list of files of your current directory to validate the renaming of the file
 ls -l # displays in the long format
