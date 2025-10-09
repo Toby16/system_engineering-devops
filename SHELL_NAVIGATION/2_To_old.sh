@@ -3,6 +3,7 @@
 # Then, rename the file `old_school` to `new_school` (in the same directory)
 
 cd /root
+rm -rf old_school && touch old_school  # To ensure old_school is an empty file | A Requirement!
 mv old_school new_school
 
 # Validate your current working directory
