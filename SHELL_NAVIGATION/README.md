@@ -5,9 +5,9 @@
 <br /> <br />
 
 ## :book: INSTRUCTIONS
-* ####
+* Run the scripts using `bash <script>.sh` command! `script` is the name of the bash file/script.
 <br />or<br />
-* ####
+* Run `chmod u+x <script>.sh && ./<script>.sh` command!
 <br />
 
 ## 📚 RESOURCES
@@ -19,7 +19,8 @@
 <br />
 
 ## ✅ TASKS
-0. [Create ####](####) || `####`.
+0. [Create me!](https://github.com/Toby16/system_engineering-devops/blob/Toby/SHELL_NAVIGATION/0_Create_me.sh) || `Change to /root directory, and create en empty file named so_cool`.
+1. 
 <br />
 
 `🙂 Be Sure To Click The Links! Thank you. 🙃`
