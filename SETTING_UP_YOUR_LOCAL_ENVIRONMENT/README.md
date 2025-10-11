@@ -6,7 +6,7 @@
 
 ## :book: INSTRUCTIONS
 * Kindly read through the instructions and follow each step carefully.
-<br />or<br />
+<br />
 
 ## 📚 RESOURCES
 * [Virtual Machines](https://en.wikipedia.org/wiki/Virtual_machine).
