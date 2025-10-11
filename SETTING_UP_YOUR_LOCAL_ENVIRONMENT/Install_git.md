@@ -9,7 +9,6 @@ Kindly follow each steps carefully.
 * Run `sudo apt-get update -y`, `sudo apt-get install git -y`, `sudo apt install git-all -y`.
 * For Debian-based distro (Debian/Ubuntu/Ubuntu-derivatives), you also need the `install-info` package.
 <br />Run `sudo apt-get install install-info -y` to install it.
-
 <br />
 
 ## Customizing Git
@@ -22,3 +21,4 @@ Now that you have Git on your system, you’ll want to do a few things to custom
 <br />Editors can include: `nano` `vi/vim` `neovim` `emacs`.
 * To set `main` as the default branch name, run `git config --global init.defaultBranch main`.
 * To check your configuration settings, run `git config --list`.
+<br />
