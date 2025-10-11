@@ -5,13 +5,13 @@
 <br /> <br />
 
 ## How to install & configure git
-* Kindly follow each steps carefully.
+Kindly follow each steps carefully.
 * Run `sudo apt-get update -y`, `sudo apt-get install git -y`, `sudo apt install git-all -y`.
 * For Debian-based distro (Debian/Ubuntu/Ubuntu-derivatives), you also need the `install-info` package.
 <br />Run `sudo apt-get install install-info -y` to install it.
 
 ## Customizing Git
-* Now that you have Git on your system, you’ll want to do a few things to customize your Git environment.
+Now that you have Git on your system, you’ll want to do a few things to customize your Git environment.
 <br />You should have to do these things only once on any given computer.
 * Run `git config --global user.name "<username>"`.
 <br />`git config --global user.email <email_address>`.
