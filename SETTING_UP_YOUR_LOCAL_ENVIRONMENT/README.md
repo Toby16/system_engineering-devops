@@ -23,6 +23,7 @@
 
 ## ✅ TASKS
 !. [Install Git](https://github.com/Toby16/system_engineering-devops/blob/Toby/) (in Ubuntu/Debian-Linux) || `How to successfully install and configure git/github`.
+<br />
 0. [Create and setup your Git and GitHub account](https://github.com/Toby16/system_engineering-devops/blob/Toby/) || `Click link and read the comments`.
 1. [Saving](https://github.com/Toby16/system_engineering-devops/blob/Toby/) || `Click link and the comments`.
 <br />
