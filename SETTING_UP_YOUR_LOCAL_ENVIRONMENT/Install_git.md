@@ -12,7 +12,7 @@
 
 ## Customizing Git
 * Now that you have Git on your system, you’ll want to do a few things to customize your Git environment.
-  You should have to do these things only once on any given computer.
+<br />You should have to do these things only once on any given computer.
 * Run `git config --global user.name "<username>"` and `git config --global user.email <email_address>`.
 * (Optionally) You can configure the default text editor that'll be used when Git needs you to type in a message using `git config --global core.editor <editor_name>`.
   Editors can include: `nano` `vi/vim` `neovim` `emacs`.
