@@ -1,5 +1,5 @@
 # 🧰 System Engineering Devops ⚙️
-`Shell` `Bash` `Editor` `DevOps` `Virtual machine`
+`Shell` `Bash` `Editor` `DevOps` `Virtual Machine`
 <br /> <br />
 <img src="https://raw.githubusercontent.com/Toby16/system_engineering-devops/2ac5c680e652334004726806e1094dda50ebf016/assets/system_engineering_devops.jpg" alt="System Engineering DevOps" width="500"/>
 <br /> <br />
