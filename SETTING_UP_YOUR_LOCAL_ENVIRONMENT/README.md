@@ -6,7 +6,7 @@
 
 ## :book: INSTRUCTIONS
 * Kindly read through the instructions and follow each step carefully.
-* [Install Git](https://github.com/Toby16/system_engineering-devops/blob/Toby/) (in Ubuntu/Debian-Linux) || `How to successfully install and configure git/github`.
+* [Install Git](https://github.com/Toby16/system_engineering-devops/blob/Toby/) (in Ubuntu/Debian-Linux).  <!--here-->
 <br />
 
 ## 📚 RESOURCES
@@ -23,8 +23,8 @@
 <br />
 
 ## ✅ TASKS 
-0. [Create and setup your Git and GitHub account](https://github.com/Toby16/system_engineering-devops/blob/Toby/) || `Click link and read the comments`.
-1. [Hello Ubuntu](https://github.com/Toby16/system_engineering-devops/blob/Toby/) || `Click link and the comments`.
+0. [Create and setup your Git and GitHub account](https://github.com/Toby16/system_engineering-devops/blob/Toby/) || `Click link and read the comments`.  <!--here-->
+1. [Hello Ubuntu](https://github.com/Toby16/system_engineering-devops/blob/Toby/) || `Click link and the comments`.  <!--here-->
 <br />
 
 `🙂 Be Sure To Click The Links! Thank you. 🙃`
