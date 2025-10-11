@@ -7,5 +7,5 @@
 ## How to install git
 * Kindly follow each steps carefully.
 * run `sudo apt-get update -y`, `sudo apt-get install git`, `sudo apt install git-all`.
-* <img src="https://github.com/Toby16/system_engineering-devops/blob/1853575a96255ef465d4084ce162d9e4381735de/assets/misc/misc_1.png" alt="misc_1" width="500"/>
+<br /><img src="https://github.com/Toby16/system_engineering-devops/blob/1853575a96255ef465d4084ce162d9e4381735de/assets/misc/misc_1.png" alt="misc_1" width="500"/>
 * 
