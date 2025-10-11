@@ -10,6 +10,7 @@ Kindly follow each steps carefully.
 * For Debian-based distro (Debian/Ubuntu/Ubuntu-derivatives), you also need the `install-info` package.
 <br />Run `sudo apt-get install install-info -y` to install it.
 <br />
+
 ## Customizing Git
 Now that you have Git on your system, you’ll want to do a few things to customize your Git environment.
 <br />You should have to do these things only once on any given computer.
