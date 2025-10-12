@@ -7,7 +7,7 @@
 ## How to install & configure git
 Kindly follow each steps carefully.
 * Run `sudo apt-get update -y`, `sudo apt-get install git -y`, `sudo apt install git-all -y`.
-* For Debian/Ubuntu/Ubuntu-derivatives based distro, you also need the `install-info` package.
+* For Debian/Ubuntu/Ubuntu-derivatives based distro, you need the `install-info` package.
 <br />Run `sudo apt-get install install-info -y` to install it.
 <br />
 
