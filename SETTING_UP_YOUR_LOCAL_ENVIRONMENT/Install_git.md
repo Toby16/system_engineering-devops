@@ -1,7 +1,7 @@
 # Install Git 🐙
 `Git` `Github` `Version Control`
 <br /> <br />
-<img src="https://github.com/Toby16/system_engineering-devops/blob/98f71a7488f30db2804d1943dfec3534bd6f2245/assets/install_git.jpg" alt="Install Git, Navigation" width="600"/>
+<img src="https://github.com/Toby16/system_engineering-devops/blob/98f71a7488f30db2804d1943dfec3534bd6f2245/assets/install_git.jpg" alt="Install Git" width="600"/>
 <br /> <br />
 
 ## How to install & configure git
