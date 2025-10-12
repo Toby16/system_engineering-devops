@@ -5,4 +5,4 @@
 <br /> <br />
 
 # Getting Started
-* You will need Git for this project. [Click here to install and configure git](https://github.com/Toby16/system_engineering-devops/blob/6f307f583e9806b59527ff77d2f1f05f88d75095/SETTING_UP_YOUR_LOCAL_ENVIRONMENT/Install_git.md) if it's not done.
+You will need Git for this project. [Click here to install and configure git](https://github.com/Toby16/system_engineering-devops/blob/6f307f583e9806b59527ff77d2f1f05f88d75095/SETTING_UP_YOUR_LOCAL_ENVIRONMENT/Install_git.md) if it's not done.
