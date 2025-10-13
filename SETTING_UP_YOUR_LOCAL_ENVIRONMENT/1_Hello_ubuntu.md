@@ -19,7 +19,7 @@
 * Move into that directory. Run `cd cd 0x00-vagrant` command.
 * Create a README.md file. Add a sample text to it. for example,
 <br />Run `echo "# 0x00-vagrant" >> README.md` command.
-<br />Run `This project is about learning to use Vagrant and Ubuntu on a virtual machine.` command.
+<br />Run `echo "This project is about learning to use Vagrant and Ubuntu on a virtual machine." >> README.md` command.
 * Run `uname` command in your terminal. Examples of outputs include: Linux, FreeBSD, SunOS, etc.
 * While still inside your 0x00-vagrant directory (on your local machine):
 <br />Run `echo "Linux" > 0-hello_ubuntu` command.
