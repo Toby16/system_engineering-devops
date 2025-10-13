@@ -32,3 +32,6 @@ You can use any text in this file for now. Then save.
 * Push your commit to GitHub. Run `git push -u origin main`.
 If an error like “main doesn’t exist” occurs, run `git branch -M main` first, then push again.
 * 🥳 You’ve successfully connected to Github and pushed your first file. 🎉
+<br />
+
+`🙂 Be Sure To Click The Links! Thank you. 🙃`
