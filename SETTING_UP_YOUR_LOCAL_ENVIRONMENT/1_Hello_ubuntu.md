@@ -34,4 +34,4 @@ Your Repository should now look like this:
         ├── README.md
         └── 0-hello_ubuntu
 
-`🏁 Done!`
+<br />`🏁 Done!`
