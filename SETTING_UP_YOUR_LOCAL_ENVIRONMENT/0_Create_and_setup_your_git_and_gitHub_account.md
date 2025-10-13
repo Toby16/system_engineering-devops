@@ -14,7 +14,7 @@ You will need Git for this project. [Click here to install and configure git](ht
 * set Visibility to `Public`.
 * No README, .gitignore, or license. Leave them unchecked.
 * Click the green “Create repository” button.
-* 🎉 Congrats! You’ve just created your first GitHub repository. 🥳
+🎉 Congrats! You’ve just created your first GitHub repository. 🥳
 <br />
 
 * To create your first local Git repository and connect it to GitHub. (A sample)
