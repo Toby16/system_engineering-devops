@@ -8,9 +8,9 @@
 * Inside the `zero_day` repository, create a new directory called `0x00-vagrant`.
 * Add a README.md file to this `0x00-vagrant` directory.
 * ssh into your Ubuntu VM.
-What does the command `uname` print when you run it without any option?
-Run `uname` command.
-Type your answer into a file named `0-hello_ubuntu`in the `0x00-vagrant` directory and push it to GitHub.
+<br />What does the command `uname` print when you run it without any option?
+<br />Run `uname` command.
+<br />Type your answer into a file named `0-hello_ubuntu`in the `0x00-vagrant` directory and push it to GitHub.
 * Repository name is `zero_day`. Directory inside `zero_day` is `0x00-vagrant`. File inside `0x00-vagrant` is named `0-hello_ubuntu`.
 
 ## ⚙️ 0x00-vagrant & uname Task 🐧
@@ -18,11 +18,11 @@ Type your answer into a file named `0-hello_ubuntu`in the `0x00-vagrant` directo
 * Create a new directory named `0x00-vagrant`. Run `mkdir 0x00-vagrant` command.
 * Move into that directory. Run `cd cd 0x00-vagrant` command.
 * Create a README.md file. Add a sample text to it. for example,
-Run `echo "# 0x00-vagrant" >> README.md` command.
-Run `This project is about learning to use Vagrant and Ubuntu on a virtual machine.` command.
+<br />Run `echo "# 0x00-vagrant" >> README.md` command.
+<br />Run `This project is about learning to use Vagrant and Ubuntu on a virtual machine.` command.
 * Run `uname` command in your terminal. Examples of outputs include: Linux, FreeBSD, SunOS, etc.
 * While still inside your 0x00-vagrant directory (on your local machine):
-Run `echo "Linux" > 0-hello_ubuntu` command.
+<br />Run `echo "Linux" > 0-hello_ubuntu` command.
 * Add all your changes to Git. Run `git add .` command.
 * Commit your changes. Run `git commit -m "Hello Ubuntu"` command.
 * Push your changes to GitHub. Run `git push` command.
