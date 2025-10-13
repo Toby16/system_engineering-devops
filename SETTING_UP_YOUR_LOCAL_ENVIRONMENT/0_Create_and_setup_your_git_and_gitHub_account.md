@@ -5,7 +5,7 @@
 <br /> <br />
 
 ## 🚀 Create a new public repository on GitHub using the web interface. 🌐
-* You will need Git for this project. [Click here to install and configure git](https://github.com/Toby16/system_engineering-devops/blob/6f307f583e9806b59527ff77d2f1f05f88d75095/SETTING_UP_YOUR_LOCAL_ENVIRONMENT/Install_git.md) if it's not done.
+You will need Git for this project. [Click here to install and configure git](https://github.com/Toby16/system_engineering-devops/blob/6f307f583e9806b59527ff77d2f1f05f88d75095/SETTING_UP_YOUR_LOCAL_ENVIRONMENT/Install_git.md) if it's not done.
 * Go to [GitHub.com](https://github.com). Log in to your account or sign up if you don’t have one yet.
 * Click the `+` icon at the top-right corner of the page.
 * From the dropdown menu, select “New repository”.
