@@ -14,4 +14,20 @@ You will need Git for this project. [Click here to install and configure git](ht
 * set Visibility to `Public`.
 * No README, .gitignore, or license. Leave them unchecked.
 * Click the green “Create repository” button.
-* 🎉 Congrats! You’ve just created your first GitHub repository.
+* 🎉 Congrats! You’ve just created your first GitHub repository. 🥳
+<br /><br />
+* To create your first local Git repository and connect it to GitHub. (A sample)
+* Open a terminal on your computer.
+* Navigate to your home directory by running `cd ~` command.
+* Create a new directory named `zero_day`. Run `mkdir zero_day` command.
+* Move into the new directory. Run `cd zero_day` command.
+* Initialize Git inside the folder and add the remote repository from GitHub.
+Run `git init` and `git remote add origin https://github.com/<your-username>/zero-day.git`.
+* Using a text editor, create a README.md file and write a small Markdown text to present this project.
+You can use any text in this file for now. Then save.
+* Add the new file to Git. Run `git add README.md`.
+`git add .` adds all modified files in the current working directory.
+* Commit the file with a message. Run `git commit -m "My first commit"`.
+* Push your commit to GitHub. Run `git push -u origin main`.
+If an error like “main doesn’t exist” occurs, run `git branch -M main` first, then push again.
+* 🥳 You’ve successfully connected to Github and pushed your first file. 🎉
