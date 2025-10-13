@@ -13,7 +13,7 @@
 ## 📚 RESOURCES
 * [Basic Vi (editor) commands](https://www.cs.colostate.edu/helpdocs/vi.html).
 
-<b>NB</b>: `Vi` and `Vim` are not the same.
+<b>NB: `Vi` and `Vim` are not the same.</b>
 
     Vim editor is an improved version of Vi that is designed to be upwards compatible with it.
     Functionally, Vim is almost a proper superset of Vi editor. Therefore, everything that is in Vi is available in Vim.
