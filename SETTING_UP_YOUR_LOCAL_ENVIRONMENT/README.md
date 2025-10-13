@@ -24,7 +24,7 @@
 
 ## ✅ TASKS 
 0. [Create and setup your Git and GitHub account](https://github.com/Toby16/system_engineering-devops/blob/fd8be41af6f719c0b6c2005b179f9c247c6be591/SETTING_UP_YOUR_LOCAL_ENVIRONMENT/0_Create_and_setup_your_git_and_gitHub_account.md).
-1. [Hello Ubuntu](https://github.com/Toby16/system_engineering-devops/blob/Toby/) || `Click link and the comments`.  <!--here-->
+1. [Hello Ubuntu](https://github.com/Toby16/system_engineering-devops/blob/7b2da8aa4765fd16ca72aa99b8f943f08954ec37/SETTING_UP_YOUR_LOCAL_ENVIRONMENT/1_Hello_ubuntu.md).
 <br />
 
 `🙂 Be Sure To Click The Links! Thank you. 🙃`
