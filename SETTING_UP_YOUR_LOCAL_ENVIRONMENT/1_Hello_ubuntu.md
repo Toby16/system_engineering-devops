@@ -5,7 +5,7 @@
 <br /> <br />
 
 ## 🎯 Goal
-* Inside the `zero_day` repo, create a new directory called `0x00-vagrant`.
+* Inside the `zero_day` repository, create a new directory called `0x00-vagrant`.
 * Add a README.md file to this `0x00-vagrant` directory.
 * ssh into your Ubuntu VM. What does the command `uname` print when you run it without any option? Run `uname` command.
 Type your answer into a file named `0-hello_ubuntu`in the `0x00-vagrant` directory and push it to GitHub.
