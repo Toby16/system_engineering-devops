@@ -33,3 +33,5 @@ Your Repository should now look like this:
     └── 0x00-vagrant/
         ├── README.md
         └── 0-hello_ubuntu
+
+`🏁 Done!`
