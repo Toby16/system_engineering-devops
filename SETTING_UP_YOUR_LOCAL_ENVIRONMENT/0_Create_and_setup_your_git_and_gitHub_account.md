@@ -17,7 +17,7 @@ You will need Git for this project. [Click here to install and configure git](ht
 * 🎉 Congrats! You’ve just created your first GitHub repository. 🥳
 <br />
 
-To create your first local Git repository and connect it to GitHub. (A sample)
+## 🔗 To create your first local Git repository and connect it to GitHub.
 * Open a terminal on your computer.
 * Navigate to your home directory by running `cd ~` command.
 * Create a new directory named `zero_day`. Run `mkdir zero_day` command.
