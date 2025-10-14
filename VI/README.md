@@ -12,6 +12,7 @@
 
 ## 📚 RESOURCES
 * [Basic Vi (editor) commands](https://www.cs.colostate.edu/helpdocs/vi.html).
+* [How to Copy, Cut and Paste in Vim/Vi](https://linuxize.com/post/how-to-copy-cut-paste-in-vim).
 
 <b>NB: `Vi` and `Vim` are not the same.</b>
 
