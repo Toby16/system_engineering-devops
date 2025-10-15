@@ -5,7 +5,7 @@
 <br /> <br />
 
 ## :book: INSTRUCTIONS
-* Ensure to go through every .md (markdown) file carefully.
+* Ensure to go through every `.md` markdown file carefully.
 * Run the scripts using `bash <script>.sh` command! `script` is the name of the bash file/script.
 <br />or<br />
 * Run `chmod u+x <script>.sh && ./<script>.sh` command!
