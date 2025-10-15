@@ -18,3 +18,17 @@
 
     Vim editor is an improved version of Vi that is designed to be upwards compatible with it.
     Functionally, Vim is almost a proper superset of Vi editor. Therefore, everything that is in Vi is available in Vim.
+
+
+## ✅ TASKS
+0. [Create your answer directory](https://github.com/Toby16/system_engineering-devops/blob/ceee4fc8c80b5f53c2074f8147f40e62ca165a90/VI/0_Create_your_answer_directory.sh).
+1. [Inserting](https://github.com/Toby16/system_engineering-devops/blob/ceee4fc8c80b5f53c2074f8147f40e62ca165a90/VI/1_Inserting.sh).
+2. [Cutting](https://github.com/Toby16/system_engineering-devops/blob/ceee4fc8c80b5f53c2074f8147f40e62ca165a90/VI/2_Cutting.sh).
+3. [Pasting](https://github.com/Toby16/system_engineering-devops/blob/ceee4fc8c80b5f53c2074f8147f40e62ca165a90/VI/3_Pasting.sh).
+4. [Undoing](https://github.com/Toby16/system_engineering-devops/blob/ceee4fc8c80b5f53c2074f8147f40e62ca165a90/VI/4_Undoing.sh).
+5. [Exiting](https://github.com/Toby16/system_engineering-devops/blob/ceee4fc8c80b5f53c2074f8147f40e62ca165a90/VI/5_Exiting.sh).
+6. [Beginning of the line](https://github.com/Toby16/system_engineering-devops/blob/ceee4fc8c80b5f53c2074f8147f40e62ca165a90/VI/6_Beginning_of_the_line.sh).
+7. [End of the line](https://github.com/Toby16/system_engineering-devops/blob/ceee4fc8c80b5f53c2074f8147f40e62ca165a90/VI/7_End_of_the_line.sh).
+<br />
+
+`🙂 Be Sure To Click The Links! Thank you. 🙃`
