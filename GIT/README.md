@@ -12,6 +12,7 @@
 <br />
 
 ## 📚 RESOURCES
+* [Install Git](https://github.com/Toby16/system_engineering-devops/blob/a2bc185132c5c36060008beed38385cd4c7626f1/SETTING_UP_YOUR_LOCAL_ENVIRONMENT/Install_git.md).
 * [Setting Up Git](https://docs.github.com/en/get-started/git-basics/set-up-git).
 * [Git From The Inside Out](https://codewords.recurse.com/issues/two/git-from-the-inside-out).
 * [About Authenticating To Git](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-authentication-to-github).
