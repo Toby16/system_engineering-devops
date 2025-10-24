@@ -22,6 +22,8 @@
 * [Support for password authentication was removed Github Fixed using Token (August 13, 2021) - Linux](https://www.youtube.com/watch?v=ytSoabxSQ6E).
 * [How To Generate A Personal Access Token In GitHub And Use It To Push Using Git](https://www.youtube.com/watch?v=iLrywUfs7yU).
 * [A Successful Git Branching Model](https://nvie.com/posts/a-successful-git-branching-model).
+* [Generating A New SSH Key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
+* [Testing Your SSH Connection](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection).
 * [Semantic Versioning](https://semver.org).
 * [What is Overengineering?](https://www.codesimplicity.com/post/what-is-overengineering).
 * [Criminal Engineering](https://coderoom.wordpress.com/2010/06/23/criminal-overengineering).
