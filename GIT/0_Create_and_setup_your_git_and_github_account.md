@@ -1,0 +1,25 @@
+# 🐙 Create And Setup Your Git And Github Account ⚙️
+`Git` `Code versioning` `Github`
+<br /><br />
+<img src="https://github.com/Toby16/system_engineering-devops/blob/a692739db4334ad5eb205f0065d00db11d9818d9/assets/create_and_setup_your_git_and_github_account.jpg" alt="Create And Setup Your Git And Github Account" width="500"/>
+<br /> <br />
+
+## Create an account on GitHub and Create a Personal Access Token on Github
+* If you do not already have a github.com account, you can create an account for free [here](https://github.com).
+* To install and setup git on your terminal, [click here](https://github.com/Toby16/system_engineering-devops/blob/a692739db4334ad5eb205f0065d00db11d9818d9/SETTING_UP_YOUR_LOCAL_ENVIRONMENT/Install_git.md)
+* To have access to your repositories and authenticate yourself, you need to create a Personal Access Token on Github.
+  To Create a PAT, log in to [github.com](https://github.com), Click your profile picture then open the ```Settings``` .<br />
+  Scroll down on the left sidebar, click `Developer settings`.<br />
+  Click `Personal access tokens`, then `Tokens (classic)`, then `Generate new token (For general use)`.<br />
+  Give it a name, set an expiration date, and select the scopes/permissions you need (e.g., repo, workflow).<br />
+  Click `Generate token`. Then copy the token shown, it appears only once so save it safely!<br />
+  You can then use this token instead of your password when pushing or pulling from GitHub.
+
+## Create your first repository
+* Using the graphic interface on the github website, create your first repository
+  ```Repository_Name: alx-zero_day```
+  ```Description: I'm now a ALX Student, this is my first repository as a full-stack engineer```
+  ```No README, .gitignore, or license```
+  ```Public Repository```
+* 🔗 To create your first local Git repository and connect it to GitHub, [click here](https://github.com/Toby16/system_engineering-devops/blob/a692739db4334ad5eb205f0065d00db11d9818d9/SETTING_UP_YOUR_LOCAL_ENVIRONMENT/0_Create_and_setup_your_git_and_gitHub_account.md#-create-a-new-public-repository-on-github-using-the-web-interface-)!
+
