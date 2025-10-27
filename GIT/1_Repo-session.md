@@ -1,7 +1,7 @@
 # Repo-Session ⚙️
 `Git` `Code versioning` `Github`
 <br /><br />
-<img src="https://github.com/Toby16/system_engineering-devops/blob/6481c5dc04d9cdc8e4a7bc4942add317a017c7f5/assets/repo-session.png" alt="Repo Session" width"500"/>
+<img src="https://github.com/Toby16/system_engineering-devops/blob/6481c5dc04d9cdc8e4a7bc4942add317a017c7f5/assets/repo-session.png" alt="Repo Session" width="500"/>
 <br /> <br />
 
 ## Creating a Directory in Your Repository
