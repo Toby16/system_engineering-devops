@@ -12,6 +12,8 @@
   /alx-sero_day$ mkdir -p bash c js
   /alx-zero_day$ touch c/c_is_fun.c js/main.js js.index.js  # creating empty files in the directories  
   ```
+<br /> <br />
+
 * Creating a file `bash/alx` with these two lines inside it: `#!/bin/bash` and `echo "ALX"`.<br />
   Creating a file `bash/school` with these two lines inside it: `#!/bin/bash` and `echo "School"`.<br />
   Add all these new files to Git, and commit your changes with message `"Starting to code today, so cool"`, then push to the remote server(GitHub).
@@ -24,5 +26,5 @@
   /alx-zero_day$
   /alx-zero_day$ git add .
   /alx-zero_day$ git commit -m "Starting to code today, so cool"
-  /alx-zero_day$ git push  # to add files, comit and push to github
+  /alx-zero_day$ git push  # to add files, commit and push to github
   ```
