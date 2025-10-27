@@ -32,3 +32,24 @@
   Replace `{YOUR_USERNAME}` with your GitHub username.
 
 ## Create the README.md and push the modifications
+* Navigate to this new directory that you've cloned. On how to navigate between directories in a terminal, [click here](https://askubuntu.com/questions/232442/how-do-i-navigate-between-directories-in-terminal).
+* Create the file `README.md` with the content `My first readme`.
+  ```
+  /$ cd alx-zero_day
+  /alx-zero_day$ echo 'My first readme' > README.md 
+  /alx-zero_day$ cat README.md 
+  My first readme   
+  ```
+* Update your git identity. [Click here](https://github.com/Toby16/system_engineering-devops/blob/Toby/SETTING_UP_YOUR_LOCAL_ENVIRONMENT/Install_git.md#customizing-git) and follow each steps carefully.
+  or
+  ```
+  $ git config --global user.email "you@example.com"
+  $ git config --global user.name "username"
+  ```
+* Adding the new file to giht, committing the change with message `My first commit`, and pushing to the remote server / origin.
+  ```
+  /alx-zero-day$ git add .
+  /alx-zero-day$ git commit -m "My first commit"
+  /alx-zero-day$ git push
+  ```
+  Now you've pushed your first file in your first repository. You can now check your repository on GitHub to see if everything's good. ⭐ 
