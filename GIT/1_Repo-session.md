@@ -11,7 +11,7 @@
   ```
   /$ cd ~/alx-zero_day
   /alx-zero_day$ mkdir -p 0x03-git  # create new directory
-  /alx-zero_day$ echo "# 0x03-GIT" > /0x03-git/README.md  # include a non-empty README to 0x03.git directory
+  /alx-zero_day$ echo "# 0x03-GIT" > 0x03-git/README.md  # include a non-empty README to 0x03.git directory
   /alx-zero_day$ git add .  # add modified/new files to index
   /alx-zero_day$ git commit -m "Updated README"
   /alx-zero_day$ git push  # push changes to GitHub
