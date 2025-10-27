@@ -5,7 +5,7 @@
 <br /> <br />
 
 ## Creating a Directory in Your Repository
-* Create a new directory called `0x03-git` in your `alx-zero_day` repository.
+* Create a new directory called `0x03-git` in your `alx-zero_day` repository.<br />
   Make sure to include a not empty README.md file at the root of your directory `alx-zero_day`, and in the directory `0x03.git`.<br />
   Make sure you commit and push your code to Github.<br />
   ```

@@ -32,7 +32,8 @@
   Replace `{YOUR_USERNAME}` with your GitHub username.
 
 ## Create the README.md and push the modifications
-* Navigate to this new directory that you've cloned. On how to navigate between directories in a terminal, [click here](https://askubuntu.com/questions/232442/how-do-i-navigate-between-directories-in-terminal).
+* Navigate to this new directory that you've cloned.<br />
+  On how to navigate between directories in a terminal, [click here](https://askubuntu.com/questions/232442/how-do-i-navigate-between-directories-in-terminal).
 * Create the file `README.md` with the content `My first readme`.
   ```
   /$ cd alx-zero_day
