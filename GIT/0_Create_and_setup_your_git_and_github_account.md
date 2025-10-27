@@ -53,3 +53,5 @@
   /alx-zero-day$ git push
   ```
   Now you've pushed your first file in your first repository. You can now check your repository on GitHub to see if everything's good. ⭐ 
+
+<br />`🏁 Done!`
