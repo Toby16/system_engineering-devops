@@ -1,7 +1,7 @@
 # 🔥 Coding Fury Road 🏎️
 `Git` `Code versioning` `Github`
 <br /><br />
-<img src="https://github.com/Toby16/system_engineering-devops/blob/2f8f77b5a376672725e4d3e7d9856bff4e5670de/assets/coding-fury-road.jpg" alt="Coding Fury Road" width="500"/>
+<img src="https://github.com/Toby16/system_engineering-devops/blob/2f8f77b5a376672725e4d3e7d9856bff4e5670de/assets/coding-fury-road.jpg" alt="Coding Fury Road" width="600"/>
 <br /> <br />
 
 ## Creating Directories With Empty Files, and Commiting them to GitHub
@@ -16,7 +16,7 @@
 
 * Creating a file `bash/alx` with these two lines inside it: `#!/bin/bash` and `echo "ALX"`.<br />
   Creating a file `bash/school` with these two lines inside it: `#!/bin/bash` and `echo "School"`.<br />
-  Add all these new files to Git, and commit your changes with message `"Starting to code today, so cool"`, then push to the remote server(GitHub).
+  Add all these new files to Git, and commit your changes with message `"Starting to code today, so cool"`, then push to the remote server (GitHub).
   ```
   /alx-zero_day$ echo "#!/bin/bash"  >> bash/alx
   /alx-zero_day$ echo "echo \"ALX\"" >> bash/alx  # file with two lines created in ~/alx-zero_day/bash directory
