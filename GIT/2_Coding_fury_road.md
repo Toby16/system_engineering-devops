@@ -12,7 +12,7 @@
   /alx-sero_day$ mkdir -p bash c js
   /alx-zero_day$ touch c/c_is_fun.c js/main.js js.index.js  # creating empty files in the directories  
   ```
-<br /> <br />
+<br />
 
 * Creating a file `bash/alx` with these two lines inside it: `#!/bin/bash` and `echo "ALX"`.<br />
   Creating a file `bash/school` with these two lines inside it: `#!/bin/bash` and `echo "School"`.<br />
