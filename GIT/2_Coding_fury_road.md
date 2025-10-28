@@ -18,11 +18,11 @@
   Creating a file `bash/school` with these two lines inside it: `#!/bin/bash` and `echo "School"`.<br />
   Add all these new files to Git, and commit your changes with message `"Starting to code today, so cool"`, then push to the remote server (GitHub).
   ```
-  /alx-zero_day/0x03-git$ echo "#!/bin/bash"  >> bash/alx
-  /alx-zero_day/0x03-git$ echo "echo \"ALX\"" >> bash/alx  # file with two lines created in ~/alx-zero_day/bash directory
+  /alx-zero_day/0x03-git$ echo '#!/bin/bash'  >> bash/alx
+  /alx-zero_day/0x03-git$ echo 'echo "ALX"' >> bash/alx  # file with two lines created in ~/alx-zero_day/bash directory
   /alx-zero_day/0x03-git$
-  /alx-zero_day/0x03-git$ echo "#!/bin/bash" >> bash/school
-  /alx-zero_day/0x03-git$ echo "echo \"School\"" >> bash/school  # file with two lines created in ~/alx-zero_day/bash directory
+  /alx-zero_day/0x03-git$ echo '#!/bin/bash' >> bash/school
+  /alx-zero_day/0x03-git$ echo 'echo "School"' >> bash/school  # file with two lines created in ~/alx-zero_day/bash directory
   /alx-zero_day/0x03-git$
   /alx-zero_day/0x03-git$ git add .
   /alx-zero_day/0x03-git$ git commit -m "Starting to code today, so cool"
