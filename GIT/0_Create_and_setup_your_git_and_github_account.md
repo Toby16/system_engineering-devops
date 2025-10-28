@@ -22,7 +22,7 @@
   `No README, .gitignore, or license` <br />
   `Public Repository`
 * 🔗 To create your first local Git repository and connect it to GitHub, [click here](https://github.com/Toby16/system_engineering-devops/blob/a692739db4334ad5eb205f0065d00db11d9818d9/SETTING_UP_YOUR_LOCAL_ENVIRONMENT/0_Create_and_setup_your_git_and_gitHub_account.md#-create-a-new-public-repository-on-github-using-the-web-interface-)!
-* To clone your repository into your terimnal:
+* To clone your repository into your terminal:
   ```
   $ git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/alx-zero_day.git                  
   Cloning into 'alx-zero_day'...
@@ -47,11 +47,11 @@
   $ git config --global user.email "you@example.com"
   $ git config --global user.name "username"
   ```
-* Adding the new file to giht, committing the change with message `My first commit`, and pushing to the remote server / origin.
+* Adding the new file to git, committing the change with message `My first commit`, and pushing to the remote server / origin.
   ```
-  /alx-zero-day$ git add .
-  /alx-zero-day$ git commit -m "My first commit"
-  /alx-zero-day$ git push
+  /alx-zero_day$ git add .
+  /alx-zero_day$ git commit -m "My first commit"
+  /alx-zero_day$ git push
   ```
   Now you've pushed your first file in your first repository. You can now check your repository on GitHub to see if everything's good. ⭐ 
 

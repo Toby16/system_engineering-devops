@@ -4,13 +4,13 @@
 <img src="https://github.com/Toby16/system_engineering-devops/blob/2f8f77b5a376672725e4d3e7d9856bff4e5670de/assets/coding-fury-road.jpg" alt="Coding Fury Road" width="600"/>
 <br /> <br />
 
-## Creating Directories With Empty Files, and Commiting them to GitHub
+## Creating Directories With Empty Files, and Committing them to GitHub
 * At the root of your project `alx-zero_day`, creating directories `bash` `c` and `js`.<br />
   Creating these empty files: `c/c_is_fun.c ` `js/main.js` and `js/index.js`.<br />
   ```
   /$ cd ~/alx-zero_day
-  /alx-sero_day$ mkdir -p bash c js
-  /alx-zero_day$ touch c/c_is_fun.c js/main.js js.index.js  # creating empty files in the directories  
+  /alx-zero_day$ mkdir -p bash c js
+  /alx-zero_day$ touch c/c_is_fun.c js/main.js js/index.js  # creating empty files in the directories  
   ```
 <br />
 
