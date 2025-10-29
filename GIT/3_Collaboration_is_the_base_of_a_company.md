@@ -1,7 +1,7 @@
 # Collaboration Is The Base Of A Company 🤝
 `Git` `Code versioning` `Github`
 <br /><br />
-<img src="https://github.com/Toby16/system_engineering-devops/blob/ac8af046c7efabb0328f82c4d0b911f7b04d8c34/assets/collaboration_is_the_base_of_a_company.jpg" alt="Collaboration Is The Base Of A Company" width="500"/>
+<img src="https://github.com/Toby16/system_engineering-devops/blob/ac8af046c7efabb0328f82c4d0b911f7b04d8c34/assets/collaboration_is_the_base_of_a_company.jpg" alt="Collaboration Is The Base Of A Company" width="600"/>
 <br /> <br />
 
 ## Creating a branch 🌿
@@ -27,7 +27,7 @@
   /alx-zero_day/0x03-git$ echo '#!/bin/bash' > bash/school
   /alx-zero_day/0x03-git$ echo 'echo "The school is open!"' >> bash/school
   ```
-  <br />
+
 * Add and commit these changes with message `My personal work`. Lastly, push your changes to github.<br />
   On how to push commits to a remote repository, [click here](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository)! <br />
   ```
