@@ -13,6 +13,7 @@
   /alx-zero_day/0x03-git$ touch bash/98  # create an empty file
   ```
   <br />
+
   ```
   /alx-zero_day/0x03-git$ # There are two ways to modify the string/texts in linux/bash
   /alx-zero_day/0x03-git$ # The first one includes the use of the 'sed' command. check out 'man sed' command
@@ -39,7 +40,8 @@
 
 ## 🚑 Hot Fix 🧯
 <b>Wait, your manager needs a quick fix in your project and it needs to be deployed now</b>
-* Changing to branch `main` or `master`. Then, updating/modifying `bash/alx` file by replacing `echo "ALX"` with `echo "ALX School is so cool!"`.<br />
+* Changing to branch `main` or `master`.<br />
+  Then, updating/modifying `bash/alx` file by replacing `echo "ALX"` with `echo "ALX School is so cool!"`.<br />
   Deleting the `js` directory, and finally committing your changes with `"Hot fix"` as your message before pushing to github.<br /><br />
   ```
   /alx-zero_day/0x03-git$ git checkout main  # git checkout master
