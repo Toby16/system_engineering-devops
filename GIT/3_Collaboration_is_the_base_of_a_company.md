@@ -28,7 +28,6 @@
   /alx-zero_day/0x03-git$ echo 'echo "The school is open!"' >> bash/school
   ```
   <br />
-
 * Add and commit these changes with message `My personal work`. Lastly, push your changes to github.<br />
   On how to push commits to a remote repository, [click here](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository)! <br />
   ```
