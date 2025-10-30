@@ -49,6 +49,7 @@
   <br />
   Secondly, we will fix the merge by changing `echo "ALX School"` to `echo "ALX School is so cool!"` in the `update_script` branch.<br />
   Then add the change to our index, commit with a message, push to the online repository.<br />
+
   ```
   /alx-zero_day$ sed -i 's/echo "ALX School"/echo "ALX School is so cool!"/' 0x03-git/bash/alx  # using 'sed' command to replace text. check 'man sed' command
   /alx-zero_day$ git add .
@@ -59,6 +60,7 @@
   Now that we've changed `~/alx-zero_day/0x03-git/bash/alx` on branch `update_script`, and committed our changes to the online repository, we can now resolve the merge conflict.<br />
   Lastly, remove the unresolved conflict merge markers (the <<<<<<< / ======= / >>>>>>> lines) in file `~/alx-zero_day/0x03-git/bash/alx` on the `main (or master)` branch.<br />
   Keep only the content:<br />
+
   `
   #!/bin/bash \n
   echo "ALX School is so cool!"
