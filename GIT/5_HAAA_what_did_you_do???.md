@@ -35,7 +35,7 @@
   >>>>>>> update_script
   ```
   <b>Observe how HEAD indicates that the file on the 'master' branch has a different content from 'update_script' branch.</b>
-  <br />
+  <br /><br />
   Our first step is to switch to the `update_script` branch. Here, we will have a look at the same file to compare the differences between both branches.<br />
   ```
   /alx-zero_day$ git checkout update_script
@@ -65,12 +65,25 @@
   `echo "ALX School is so cool!"` <br />
 
   ```
-  /alx-zero_day$ git checkout main  # (or master) | To move back to the master branch
+  /alx-zero_day$ git checkout master  # (or master) | To move back to the master branch
   /alx-zero_day$ # Now we will also correct the same file on master branch
   /alx-zero_day$ echo '#!/bin/bash' > ~/alx-zero_day/0x03-git/bash/alx
   /alx-zero_day$ echo 'echo "ALX School is so cool!"' >> ~/alx-zero_day/0x03-git/bash/alx
   ```
   <br />
+  We will now commit our changes, and pull changes from both branches to each other. <br />
+
+  ```
+  /alx-zero_day$ git add .
+  /alx-zero_day$ git commit -m "fixed merge conflict"
+  /alx-zero_day$ git push
+  /alx-zero_day$
+  /alx-zero_day$ git merge --no-ff update_script  # now on same branch (main), we merge with 'update_script' branch
+  /alx-zero_day$ git push
+  /alx-zero_day$ git checkout update_script  # To change to 'update_script' branch
+  /alx-zero_day$ git merge --no-ff master  # to merge with 'master' branch
+  /alx-zero_day$ git push origin update_script  # finally push your changes
+  ```
 
   *At the end, you should have all your work from the branch `update_script` (new file and two updated files) and all latest `main` commits (new files, delete folder, etc.) without conflicts.*
   <br />
