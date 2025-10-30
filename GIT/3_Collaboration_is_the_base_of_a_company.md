@@ -18,7 +18,7 @@
   /alx-zero_day/0x03-git$ # There are two ways to modify the string/texts in linux/bash
   /alx-zero_day/0x03-git$ # The first one includes the use of the 'sed' command. check out 'man sed' command
   /alx-zero_day/0x03-git$ sed -i 's/[old_text]/[new_text]/' filename.txt  # A synopsis
-  /alx-zero_day/0x03-git$ sed -i 's/echo "ALX"/echo "ALX School/"' bash/alx
+  /alx-zero_day/0x03-git$ sed -i 's/echo "ALX"/echo "ALX School"/' bash/alx
   /alx-zero_day/0x03-git$ sed -i 's/echo "School"/echo "The school is open!"/' bash/school
   /alx-zero_day/0x03-git$
   /alx-zero_day/0x03-git$ # The second one involves using the 'echo' command we're all familar with
