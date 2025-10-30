@@ -60,11 +60,8 @@
   Now that we've changed `~/alx-zero_day/0x03-git/bash/alx` on branch `update_script`, and committed our changes to the online repository, we can now resolve the merge conflict.<br />
   Lastly, remove the unresolved conflict merge markers (the <<<<<<< / ======= / >>>>>>> lines) in file `~/alx-zero_day/0x03-git/bash/alx` on the `main (or master)` branch.<br />
   Keep only the content:<br />
-
-  `
-  #!/bin/bash \n
-  echo "ALX School is so cool!"
-  `
+  `#!/bin/bash`
+  `echo "ALX School is so cool!"`
 
   *At the end, you should have all your work from the branch `update_script` (new file and two updated files) and all latest `main` commits (new files, delete folder, etc.) without conflicts.*
   <br />
