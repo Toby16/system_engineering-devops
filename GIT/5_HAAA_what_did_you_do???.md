@@ -87,5 +87,5 @@
 
   *At the end, you should have all your work from the branch `update_script` (new file and two updated files) and all latest `main` commits (new files, delete folder, etc.) without conflicts.*
   <br />
-
+`🏁 Done!`
 
