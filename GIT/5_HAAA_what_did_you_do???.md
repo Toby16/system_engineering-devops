@@ -14,10 +14,10 @@
   /alx-zero_day$
   /alx-zero_day$ # run either of the below commands, not both
   /alx-zero_day$ git merge update_script  # To merge 'update_script' branch with the 'main' branch
-  /alx-zero_day$ git merge --oo-ff update_script  # Another way to merge. '--no-ff' ensures Git remembers the branch existed
-  ...
-  CONFLICT (content): Merge conflict in bash/alx
-  ...
+  /alx-zero_day$ git merge --no-ff update_script  # Another way to merge. '--no-ff' ensures Git remembers the branch existed
+  Auto-merging 0x03-git/bash/alx
+  CONFLICT (content): Merge conflict in 0x03-git/bash/alx
+  Automatic merge failed; fix conflicts and then commit the result.
   ```
   *Performing the merge is supposed to produce a merge conflict on your terminal if done correctly* <br />
 
