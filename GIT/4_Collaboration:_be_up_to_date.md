@@ -12,10 +12,17 @@
 * Make your changes to the README.md file, write a commit message, and commit your changes to save and update the `0x03-git/README.md` file.
 <br  />
 
-## ⚡ Updating Your Local Repository And Syncing Your Local Branch With The Latest Changes From GitHub 🔋
+## ⚡ Updating Your Local Repository With The Latest Changes From GitHub 🔋
 * In your terminal, get all changes of the `main (or master)` branch locally (This action with update your README.md).
 * Create a new file `0x03-git/up_to_date` at the root of your directory and in it, write the git command line used to pull changes to the local repository on your terminal.
 * Add `0x03-git/up_to_date` to git, commit with message "How to be up to date in git", and push to the origin.<br />
   ```
-  /$
+  /alx-zero_day$ git branch  # still on main branch
+  * master
+    update_script
+  /alx-zero_day$ git pull  # fetch changes locally
+  /alx-zero_day$ echo "git pull" > 0x03-git/up_to_date  # writing the git command -line used to pull changes to the local repo
+  /alx-zero_day$ git add .
+  /alx-zero_day$ git commit -m "How to be up to date in git"
+  /alx-zero_day$ git push
   ```
