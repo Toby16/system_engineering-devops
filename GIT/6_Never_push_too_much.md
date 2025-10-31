@@ -1,7 +1,7 @@
 # 🧱 Never Push Too Much 🚫
 `Git` `Code versioning` `Github`
 <br /><br />
-<img src="https://github.com/Toby16/system_engineering-devops/blob/8e2b2b0abff9ca6148f611771eede5d6505accaa/assets/never_push_too_much.jpg" alt="Never Push Too Much" width="600"/>
+<img src="https://github.com/Toby16/system_engineering-devops/blob/8e2b2b0abff9ca6148f611771eede5d6505accaa/assets/never_push_too_much.jpg" alt="Never Push Too Much" width="750"/>
 <br /> <br />
 
 ## Creating a .gitignore 🧹
